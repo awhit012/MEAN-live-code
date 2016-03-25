@@ -1,0 +1,20 @@
+{
+  "name": "mean_review",
+  "version": "1.0.0",
+  "description": "MEAN live",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awhit012/MEAN-live-code.git"
+  },
+  "author": "Alex White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awhit012/MEAN-live-code/issues"
+  },
+  "homepage": "https://github.com/awhit012/MEAN-live-code#readme"
+}
